@@ -2,9 +2,9 @@
 THIS IS THE ANALYSIS OF THE DATA USING MY SQL AND POWER BI .IN THIS GENERALLY WHAT HAPPENS IS THAT THE DATA WE HAVE IS CLEANED AND VISUALIZATION IS DONE
 Sales Insights Data Analysis Project
 Instructions to setup mysql on your local computer
-Follow step in this video to install mysql on your local computer https://www.youtube.com/watch?v=WuBcTJnIuzo
 
-SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer and import it as per instructions given in the tutorial video
+
+SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer and import it.
 
 Data Analysis Using SQL
 1.Show all customer records

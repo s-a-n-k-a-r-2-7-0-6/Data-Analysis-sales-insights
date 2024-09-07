@@ -5,7 +5,11 @@ This project involves the analysis of sales data using **MySQL** for data queryi
 ## Project Overview
 - **Technologies Used**: MySQL, Power BI
 - **Purpose**: Clean data, perform SQL queries for insights, and visualize results.
-  ![Project Logo]("")
+## Visualization Output
+
+Here’s a screenshot of the final output in Power BI:
+
+![Sales Insights Visualization](./output.png)
 
 ## Instructions to Set Up MySQL
 

@@ -15,11 +15,13 @@ This project involves the analysis of sales data using **MySQL** for data queryi
 
 
 Data Analysis Using SQL
-### 1. Show All Customer Records
+###SQL Commands
 
 To retrieve all customer records from the `customers` table, use the following SQL query:
 
 ```sql
+ 1. Show All Customer Records
+
 SELECT * FROM customers;
 
 2.Show total number of customers

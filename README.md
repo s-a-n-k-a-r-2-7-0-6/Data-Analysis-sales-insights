@@ -9,7 +9,7 @@ This project involves the analysis of sales data using **MySQL** for data queryi
 
 Here’s a screenshot of the final output in Power BI:
 
-![Sales Insights Visualization](./output.png)
+![Sales Insights Visualization](./Output.png)
 
 ## Instructions to Set Up MySQL
 

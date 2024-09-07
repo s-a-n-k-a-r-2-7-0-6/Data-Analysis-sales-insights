@@ -1,10 +1,18 @@
-# DATA-ANALYSIS-SALES-INSIGHTS
-THIS IS THE ANALYSIS OF THE DATA USING MY SQL AND POWER BI .IN THIS GENERALLY WHAT HAPPENS IS THAT THE DATA WE HAVE IS CLEANED AND VISUALIZATION IS DONE
-Sales Insights Data Analysis Project
-Instructions to setup mysql on your local computer
+# Data Analysis: Sales Insights
 
+This project involves the analysis of sales data using **MySQL** for data querying and **Power BI** for data visualization. The data is cleaned, analyzed, and visualized to derive key insights into sales performance.
 
-SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer and import it.
+## Project Overview
+- **Technologies Used**: MySQL, Power BI
+- **Purpose**: Clean data, perform SQL queries for insights, and visualize results.
+
+## Instructions to Set Up MySQL
+
+1. Download the database dump (`db_dump.sql`) file from this repository to your local computer.
+2. Import the SQL dump into MySQL:
+   ```bash
+   mysql -u yourusername -p yourpassword yourdatabase < db_dump.sql
+
 
 Data Analysis Using SQL
 1.Show all customer records
